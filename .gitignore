@@ -2,3 +2,7 @@
 /.vs
 /PassMan.slnLaunch.user
 /sqlite
+/src/Client/bin
+/src/Client/obj
+/src/SecureText/bin
+/src/SecureText/bin
